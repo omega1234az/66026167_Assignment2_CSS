@@ -1,0 +1,35 @@
+.container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header{
+    height: 100px;
+    width: auto;
+    background-color: pink;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+
+}
+.navbar{
+    height: 50px;
+    width: 1000px;
+    background-color: purple;
+    text-align: center;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+.content{
+    background-color: aqua;
+    height: 550px;
+}
+.footer{
+    height: 50px;
+    background-color: blue;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
